@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in Rust when working with raw pointers and provides a corrected version.  The original code modifies a value via a raw pointer, but this can cause issues. The solution uses safer Rust approaches to achieve the same outcome.
